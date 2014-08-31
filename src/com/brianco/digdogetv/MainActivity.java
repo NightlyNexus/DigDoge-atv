@@ -1,4 +1,4 @@
-package com.brianco.digdoge;
+package com.brianco.digdogetv;
 
 import android.annotation.SuppressLint;
 import android.os.Build;
@@ -8,6 +8,7 @@ import android.view.WindowManager;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
+import com.brianco.digdoge.MyGame;
 
 public class MainActivity extends AndroidApplication {
 

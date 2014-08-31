@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.brianco.digdoge;
+package com.brianco.digdogetv;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
